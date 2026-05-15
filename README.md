@@ -85,3 +85,7 @@ assets/
 
 `nalgebra`, `nalgebra-sparse`, `plotters` (SVG backend only),
 `eframe` / `egui`, `anyhow`. Dev: `approx`. Edition 2024.
+
+## License
+
+MIT — see [`LICENSE`](LICENSE).
